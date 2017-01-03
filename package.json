@@ -113,8 +113,7 @@
       "debug": "*,-mocha:*,-eslint:*",
       "downstreamIgnoreList" : [
         "dashboard-controller",
-        "gateway-director-management-interface",
-        "strong-mesh-client"
+        "gateway-director-management-interface"
       ]
     }
   },
